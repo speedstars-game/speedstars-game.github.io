@@ -29,7 +29,7 @@ const Livecounter = () => {
       <script
         dangerouslySetInnerHTML={{
           __html: `
-              (function(d,s){d.getElementById("licnt91E6").src="https://counter.yadro.ru/hit?t45.18;r"+escape(d.referrer)+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+";h"+escape(d.title.substring(0,150))+";"+Math.random()})(document,screen)
+              (function(d,s){d.getElementById("licnt3026").src="https://counter.yadro.ru/hit?t44.18;r"+escape(d.referrer)+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+";h"+escape(d.title.substring(0,150))+";"+Math.random()})(document,screen)
             `,
         }}
       />
